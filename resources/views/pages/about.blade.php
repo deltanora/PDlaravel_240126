@@ -1,0 +1,1 @@
+Es esmu '$name' un man ir '$age' gadi
